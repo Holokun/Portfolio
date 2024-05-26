@@ -1,2 +1,2 @@
 Создал бранч для новой работы, выполнял тестовое задание для трудоустройства. Было очень интересно выполнять его 3 дня однако жаль не хватило времени полностью дотестить(
-Его можно посмотреть по открытой ссылке в гугл таблицах: https://docs.google.com/spreadsheets/d/1VDYoO3S6azPMyiVwqcR7QASE9zQHcodgWy68_zsvMtE/edit?pli=1#gid=0
+Его можно посмотреть по открытой ссылке в гугл таблицах: https://docs.google.com/spreadsheets/d/1VDYoO3S6azPMyiVwqcR7QASE9zQHcodgWy68_zsvMtE/edit?usp=sharing
